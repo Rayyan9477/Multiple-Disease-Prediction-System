@@ -74,7 +74,6 @@ streamlit run Multiple_Disease_Pred.py
 
 ## Contact
 
-For any questions or feedback, please contact me at [your email address].
+For any questions or feedback, please contact me at rayyanahmed265@yahoo.com
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rayyan-ahmed9477/).
-```
