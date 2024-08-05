@@ -2,10 +2,9 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-# Change Name & Logo
+# Setting Name & Logo
 st.set_page_config(page_title="Diease Prediction", page_icon="⚕️")
 
-# hidding streamlit ad-ons
 
 hide_st_style = """
             <style>
